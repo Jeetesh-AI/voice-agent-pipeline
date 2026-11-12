@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="210" viewBox="0 0 760 210">
+  <rect width="760" height="210" rx="12" fill="#0d1117" stroke="#30363d" />
+  <text x="30" y="36" fill="#e6edf3" font-size="15" font-weight="700" font-family="ui-sans-serif, system-ui">
+    Single Voice Turn Timeline (First Audio at 275.2 ms p50)
+  </text>
+  <rect x="30" y="68" width="210" height="44" rx="8" fill="#38bdf8" />
+  <text x="135" y="95" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="700" font-family="ui-sans-serif, system-ui">1. STT · 86.1 ms</text>
+  <rect x="246" y="68" width="310" height="44" rx="8" fill="#a78bfa" />
+  <text x="401" y="95" text-anchor="middle" fill="#ffffff" font-size="12" font-weight="700" font-family="ui-sans-serif, system-ui">2. LLM TTFT + 1st Sentence · 142.2 ms</text>
+  <rect x="562" y="68" width="168" height="44" rx="8" fill="#4ade80" />
+  <text x="646" y="95" text-anchor="middle" fill="#0d1117" font-size="12" font-weight="700" font-family="ui-sans-serif, system-ui">3. TTS · 46.9 ms</text>
+  <line x1="30" y1="142" x2="730" y2="142" stroke="#30363d" stroke-width="2" />
+  <text x="30" y="168" fill="#8b949e" font-size="12" font-family="ui-sans-serif, system-ui">0 ms (User stops speaking)</text>
+  <text x="730" y="168" text-anchor="end" fill="#4ade80" font-size="12" font-weight="700" font-family="ui-sans-serif, system-ui">275.2 ms (First Audio Plays)</text>
+</svg>

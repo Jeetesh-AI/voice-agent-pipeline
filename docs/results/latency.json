@@ -1,0 +1,8 @@
+{
+  "turns": 10,
+  "stt_p50_ms": 86.1,
+  "llm_ttft_p50_ms": 127.2,
+  "streamed_first_audio_p50_ms": 275.2,
+  "buffered_first_audio_p50_ms": 498.6,
+  "speedup_pct": 44.8
+}
